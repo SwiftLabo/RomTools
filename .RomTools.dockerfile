@@ -1,7 +1,7 @@
 # Start
 
-# Fetch Ubuntu Latest
-FROM gitpod/workspace-full:latest
+# Fetch Ubuntu 22.04
+FROM ubuntu:22.04
 
 # Masuk sebagai Root
 USER root

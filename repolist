@@ -1,1 +1,16 @@
-
+sw_manifest
+sw_build
+sw_build_soong
+sw_frameworks_base
+sw_packages_apps_Settings
+sw_frameworks_av
+sw_frameworks_opt_telephony
+sw_packages_modules_Bluetooth
+sw_frameworks_native
+sw_system_core
+sw_bootable_recovery
+sw_libcore
+sw_packages_modules_Wifi
+sw_packages_modules_Permission
+sw_packages_apps_Nfc
+sw_system_sepolicy
