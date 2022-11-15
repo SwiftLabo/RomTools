@@ -14,10 +14,10 @@ ATDefBranch="13"
 
 #Selected Repo Branch
 ATLineageBranch="lineage-20.0"
-ATAospBranch="android-13.0.0_r8"
+ATAospBranch="android-13.0.0_r15"
 ATArrowBranch="arrow-13.0"
 ATPixelBranch="thirteen"
-ATLinaroBranch="LA.QSSI.13.0.r1-07200.02-qssi.0"
+ATLinaroBranch="LA.QSSI.13.0.r1-07600.03-qssi.0"
 
 
 #===============================================================#
