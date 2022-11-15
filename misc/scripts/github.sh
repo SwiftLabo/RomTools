@@ -26,6 +26,11 @@ rm $CurrentDir/repolist
 mv $CurrentDir/branchlist $CurrentDir/repolist
 printf "${BLUE}Checking Finished\n"
 }
+setdefaultallbranch(){
+printf "${BLUE}Changing Default branch Pre repo\n"
+bash python3 $CurrentDir/misc/python/defaultallbranch.py $1 $2
+printf "${BLUE}Finished\n"
+}
 renamelistedbranch() {
 read -p "are you sure you want to rename the branch from $1 to $2 in the repo list above ? " -n 1 -r
 echo    # (optional) move to a new line
