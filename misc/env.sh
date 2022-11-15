@@ -1,9 +1,9 @@
 
 #Type Token Here
-ATUseEnvToken="true" #Override Old Github Token
+ATUseEnvToken="false" #Override Old Github Token
 ATGithubToken=""
 
-#Make a prefix for the name from the beginning of the repo name, Ex: android
+#Make a prefix for the name from the beginning of the repo name, Ex: android_
 ATPrefixRepo="sw_"
 
 #Put the Organization's Destination Address Here Ex: ButterAOSP
@@ -60,7 +60,7 @@ export ATArrow="https://github.com/ArrowOS"
 export ATPixelExp="https://github.com/PixelExperience"
 export ATLinaro="https://git.codelinaro.org/clo/la/platform"
 
-export ATVersion="3.02"
-export ATBuildDate="141122"
+export ATVersion="3.03"
+export ATBuildDate="151122"
 
 printf "Environment Finished\n"

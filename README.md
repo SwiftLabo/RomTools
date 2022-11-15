@@ -1,22 +1,18 @@
- Getting Started:
- ==============
+# RomTools
+RomTools is a Tools to help you manage your ROM sources
 
-First step, Edit/Fill all variables with the data the script needs:
+### Warning!
+Project Still Unstable! Maybe if there is an bug please report it
+
+### Quick Setup
 ```bash
-#Example:
-nano misc/env.sh
-#or
-vim misc/env.sh
-```
-The second step, Install Dependencies By:
-```bash
-. misc/scripts/installdep.sh true
-```
-Step Three, Done! And Run the Script:
-```bash
+#Install Dependencies (For non Docker)
+sudo bash misc/scripts/installdep.sh
+# Run Script
 . tools.sh
+ATHelp
 ```
-And done, If You Confuse How To Use, Enter this command
-```bash
-AThelp
-```
+
+### Need Help?
+- [**Docs**](https://github.com/SwiftifyLab/RomTools/blob/docs/README.md)
+- [**Telegram**](https://t.me/SwiftifyLab)
